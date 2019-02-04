@@ -1,3 +1,7 @@
 	 some text and more text. This not the text in file.
+<<<<<<< HEAD
          Once upon a time long long ago! 
          The castle belonged to the king and he wanted....
+=======
+         Once upon a time long long ago!
+>>>>>>> 1365e4f4fcf7628b3466f8b55117761359a6db35
