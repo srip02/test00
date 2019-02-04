@@ -1,2 +1,2 @@
 	 some text and more text. This not the text in file.
-         Once upon a time long long ago!
+         Once upon a time long long ago! There was a king named ....
